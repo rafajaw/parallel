@@ -1,0 +1,29 @@
+{
+  "name": "parallel",
+  "version": "1.0.0",
+  "description": "Intuitive library to execute sequenced or parallel tasks.",
+  "main": "parallel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafajaw/parallel.git"
+  },
+  "keywords": [
+    "parallel",
+    "async",
+    "asynchronous",
+    "sync",
+    "synchronous",
+    "tasks",
+    "threads",
+    "multithread"
+  ],
+  "author": "Rafael L J Werlang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafajaw/parallel/issues"
+  },
+  "homepage": "https://github.com/rafajaw/parallel#readme"
+}
